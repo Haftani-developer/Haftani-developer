@@ -7,7 +7,7 @@
 ### 👨‍💻 درباره من
 - 🔭 در حال کار روی پروژه‌های **Laravel** و **React**
 - 🌱 در حال یادگیری و عمیق‌تر شدن در **.NET** و **C#**
-- 💬 از من بپرس درباره **PHP، Laravel، Python، JavaScript، React**
+- 💬 از من بپرس درباره **PHP، Laravel، Python، Django، JavaScript، React**
 - 📫 راه ارتباطی: [GitHub](https://github.com/Haftani-developer)
 
 ---
@@ -16,7 +16,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,visualstudio" />
 </p>
 
@@ -32,3 +33,4 @@
 ---
 
 <p align="center">⭐ از بازدید پروفایلم ممنونم!</p>
+
