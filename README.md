@@ -1,36 +1,80 @@
-# Haftani_developer
-<h1 align="center">سلام، من هفتانی هستم 👋</h1>
-<h3 align="center">Full-Stack Developer | Laravel & React</h3>
+<h1 align="center">Hi there, I'm Haftani 👋</h1>
+<h3 align="center">Full-Stack Developer | Laravel & React Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things" />
+</p>
 
 ---
 
-### 👨‍💻 درباره من
-- 🔭 در حال کار روی پروژه‌های **Laravel** و **React**
-- 🌱 در حال یادگیری و عمیق‌تر شدن در **.NET** و **C#**
-- 💬 از من بپرس درباره **PHP، Laravel، Python، Django، JavaScript، React**
-- 📫 راه ارتباطی: [GitHub](https://github.com/Haftani-developer)
+### 👨‍💻 About Me
+- 🔭 Currently working on **Laravel** and **React** projects
+- 🌱 Currently learning **.NET** and **C#**
+- 💬 Ask me about **PHP, Laravel, Python, Django, JavaScript, React, SQL, Linux**
+- 📫 Reach me on [GitHub](https://github.com/Haftani-developer)
+- ⚡ Fun fact: I love clean code and dark mode
 
 ---
 
-### 🛠 تکنولوژی‌ها و مهارت‌ها
+### 🛠 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 </p>
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haftani-developer&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haftani-developer&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haftani-developer&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haftani-developer&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haftani-developer&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">⭐ از بازدید پروفایلم ممنونم!</p>
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haftani-developer&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haftani-developer&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Haftani-developer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:haftani1382@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haftani-developer&label=Profile%20Views&color=36BCF7&style=flat" />
+</p>
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
