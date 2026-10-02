@@ -67,29 +67,6 @@
 
 ---
 
-### 🎵 Now Playing (Spotify)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</p>
-
----
-
-### 📅 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
----
-
-### 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Haftani-developer/Haftani-developer/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -114,3 +91,15 @@
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+
+---
+
+<!-- ===== HACKER FOOTER BANNER ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=150&section=footer&text=%3E%20ACCESS%20GRANTED%20_&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+ONLINE+%5D;%5B+WELCOME+TO+THE+MATRIX+%5D;%5B+FOLLOW+THE+WHITE+RABBIT+%5D" />
+</p>
