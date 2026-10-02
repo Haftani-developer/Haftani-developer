@@ -1,9 +1,13 @@
 <h1 align="center">Hi there, I'm Haftani 👋</h1>
 <h3 align="center">Full-Stack Developer | Laravel & React Enthusiast</h3>
 
+<!-- متن تایپ‌شونده -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things" />
 </p>
+
+<!-- بنر موجی متحرک -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Haftani&fontSize=70&fontAlign=50" />
 
 ---
 
@@ -35,24 +39,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haftani-developer&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<!-- کارت آتش (Streak) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haftani-developer&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haftani-developer&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=Haftani-developer&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 
+<!-- نمودار فعالیت متحرک -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haftani-developer&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haftani-developer&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
