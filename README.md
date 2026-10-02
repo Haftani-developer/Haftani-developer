@@ -1,105 +1,13 @@
-<h1 align="center">Hi there, I'm Haftani 👋</h1>
-<h3 align="center">Full-Stack Developer | Laravel & React Enthusiast</h3>
-
-<!-- متن تایپ‌شونده -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things;Clean+Code+%26+Dark+Mode+%E2%9A%A1" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on **Laravel** and **React** projects
-- 🌱 Currently learning **.NET** and **C#**
-- 💬 Ask me about **PHP, Laravel, Python, Django, JavaScript, React, SQL, Linux**
-- 📫 Reach me on [GitHub](https://github.com/Haftani-developer)
-- ⚡ Fun fact: I love clean code and dark mode
-
----
-
-### 🛠 Tech Stack & Skills
+<!-- ===== MATRIX BINARY FOOTER ===== -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://skillicons.dev/icons?i=mysql,linux,git,github" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haftani-developer&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haftani-developer&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<!-- کارت آتش (Streak) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Haftani-developer&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haftani-developer&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haftani-developer&theme=radical&hide_border=true&area=true" />
-</p>
-
----
-
-### 💻 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Haftani-developer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM_HERE">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haftani-developer&label=Profile%20Views&color=36BCF7&style=flat" />
-</p>
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
-
----
-
-<!-- ===== HACKER FOOTER BANNER ===== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=150&section=footer&text=%3E%20ACCESS%20GRANTED%20_&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:000000&height=160&section=footer&text=01001000%2001000001%2001000011%2001001011&fontSize=28&fontColor=00FF41&animation=twinkling&fontAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+ONLINE+%5D;%5B+WELCOME+TO+THE+MATRIX+%5D;%5B+FOLLOW+THE+WHITE+RABBIT+%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+01001000+01000001+01000011+01001011+%5D;%5B+ACCESS+GRANTED+%5D;%5B+SYSTEM+ONLINE+%5D;%5B+FOLLOW+THE+WHITE+RABBIT+%5D" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=footer" />
 </p>
