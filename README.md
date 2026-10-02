@@ -3,11 +3,8 @@
 
 <!-- متن تایپ‌شونده -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Python;Always+Learning+New+Things;Clean+Code+%26+Dark+Mode+%E2%9A%A1" />
 </p>
-
-<!-- بنر موجی متحرک -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Haftani&fontSize=70&fontAlign=50" />
 
 ---
 
@@ -46,11 +43,49 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haftani-developer&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
-<!-- نمودار فعالیت متحرک -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haftani-developer&theme=radical&hide_border=true&area=true" />
+</p>
+
+---
+
+### 💻 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🎵 Now Playing (Spotify)
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+</p>
+
+---
+
+### 📅 Weekly Development Breakdown
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Haftani-developer/Haftani-developer/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -61,11 +96,14 @@
   <a href="https://github.com/Haftani-developer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:haftani1382@gmail.com">
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_HERE">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
